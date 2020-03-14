@@ -12,9 +12,9 @@ display:inline-block;
 {
 color: #fff;
 text-decoration: none;
-padding: 5px 20px;
+padding: 8px 20px;
 font-family:poppions;
-font-size: 20px;
+font-size: 25px;
 }
 .nav-area li a:hover
 {
@@ -35,7 +35,7 @@ height:auto;
 .welcome-text
 {
 position: absolute;
-width: 900px;
+width: 800px;
 height: 70px;
 margin: 20% 16%;
 text-align: center;
@@ -50,10 +50,10 @@ font-size: 55px;
 .welcome-text a
 {
 border: 2px solid #fff;
-padding: 10px 22px;
+padding: 5px 5px;
 text-decoration: none;
 text-transform: uppercase;
-font-size: 25px;
+font-size: 35px;
 margin-top: 15px;
 display: inline-block;
 color:  DeepPink;
